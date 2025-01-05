@@ -13,10 +13,10 @@ Table of contents
   
 
 ## Sales Report 🚀
-
+---
 ### Objective:
-- **1.** Create a [Customer Performance Report 📈]([link-to-report])
-- **2.** Compare Market Performance vs [Sales Targets 💼🎯](https://github.com/RohitDusane/Excel-Sales-Finance-Report/blob/main/Market%20vs%20Target.pdf)
+- **1.** Create a [Customer Performance Report 📈](https://github.com/RohitDusane/Excel-Sales-Finance-Report/blob/main/Customer%20Performance.pdf)
+- **2.** Compare [Market Performance vs Sales Targets 💼🎯](https://github.com/RohitDusane/Excel-Sales-Finance-Report/blob/main/Market%20vs%20Target.pdf)
 
 ### Purpose:
 Monitor and evaluate sales performance for data-driven decisions. 📊
@@ -31,12 +31,13 @@ Monitor and evaluate sales performance for data-driven decisions. 📊
 - Optimize discounts 💸
 - Support negotiations 🤝
 - Identify growth opportunities 🌍
-------------------------------------------------------------------------------------------------------------------
+
+---
  ## Finance Report 💰
 
 ### Objective:
-- **1.** Generate P&L reports by **Fiscal Year** & **Months** 🗓️
-- **2.** Create P&L reports by **Markets** 🌍
+- **1.** Generate P&L reports by [**Fiscal Year**](https://github.com/RohitDusane/Excel-Sales-Finance-Report/blob/main/P%26L%20by%20Fiscal%20Year.pdf) & [**Months**](https://github.com/RohitDusane/Excel-Sales-Finance-Report/blob/main/P%26L%20by%20Months.pdf) 🗓️
+- **2.** Create P&L reports by [**Markets**](https://github.com/RohitDusane/Excel-Sales-Finance-Report/blob/main/P%26L%20by%20Markets.pdf)🌍
 
 ### Purpose:
 Evaluate financial health and support decision-making. 💼
@@ -74,3 +75,7 @@ We welcome contributions! Please follow these steps:
 
 ## License 📜
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
+## End
+Thank you for your interest and time. Feel free to modify and give your valuable suggestions!!!.
+Connect with me on https://www.linkedin.com/in/rohit-dusane
