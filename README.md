@@ -11,7 +11,7 @@ Welcome to the **Sales & Finance Report** repository! This repo contains key ana
 ## Sales Report 🚀
 
 ### Objective:
-- **1.** Create a [Customer Performance Report 📈](link-to-report)
+- **1.** Create a [Customer Performance Report 📈]([link-to-report](https://github.com/RohitDusane/Excel-Sales-Finance-Report/commit/8beb36f6b7c4d93e479bb38d8387206f5fa0774c#diff-30e6d07e4519598116533578cfed1640d7b110300ef3b538e8cd27e084f87da1))
 - **2.** Compare [Market Performance vs Sales Targets 💼🎯](link-to-report)
 
 ### Purpose:
