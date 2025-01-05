@@ -6,17 +6,17 @@ Table of contents
 <!--ts-->
 - [Sales Report 🚀](#sales-report-)
 - [Finance Report 💰](#finance-report-)
-- [Skills 💻🧠](#skills)
-- [How to Use](#how-to-use)
-- [Contribute](#contribute)
+- [Skills 💻🧠](#skills-)
+- [Contribute](#contribute-)
+- [License](#license-)
 <!--te-->
   
 
 ## Sales Report 🚀
 
 ### Objective:
-- **1.** Create a [Customer Performance Report 📈]([link-to-report](https://github.com/RohitDusane/Excel-Sales-Finance-Report/commit/8beb36f6b7c4d93e479bb38d8387206f5fa0774c#diff-30e6d07e4519598116533578cfed1640d7b110300ef3b538e8cd27e084f87da1))
-- **2.** Compare [Market Performance vs Sales Targets 💼🎯](link-to-report)
+- **1.** Create a [Customer Performance Report 📈]([link-to-report])
+- **2.** Compare [Market Performance vs Sales Targets 💼🎯]("https://github.com/RohitDusane/Excel-Sales-Finance-Report/blob/main/Market%20vs%20Target.pdf")
 
 ### Purpose:
 Monitor and evaluate sales performance for data-driven decisions. 📊
