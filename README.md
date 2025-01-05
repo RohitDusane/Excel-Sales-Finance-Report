@@ -1,12 +1,16 @@
 # 📊 Sales & Finance Report 🧾
 Welcome to the **Sales & Finance Report** repository! This repo contains key analytics for sales and financial reporting, empowering businesses to make data-driven decisions. 📈💼
 
-## Table of Contents
-- [Sales Report 🚀](#sales-report)
-- [Finance Report 💰](#finance-report)
+Table of contents
+=================
+<!--ts-->
+- [Sales Report 🚀](#sales-report-)
+- [Finance Report 💰](#finance-report-)
 - [Skills 💻🧠](#skills)
 - [How to Use](#how-to-use)
 - [Contribute](#contribute)
+<!--te-->
+  
 
 ## Sales Report 🚀
 
