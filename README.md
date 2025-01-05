@@ -16,7 +16,7 @@ Table of contents
 
 ### Objective:
 - **1.** Create a [Customer Performance Report 📈]([link-to-report])
-- **2.** Compare [Market Performance vs Sales Targets 💼🎯]("https://github.com/RohitDusane/Excel-Sales-Finance-Report/blob/main/Market%20vs%20Target.pdf")
+- **2.** Compare Market Performance vs [Sales Targets 💼🎯](https://github.com/RohitDusane/Excel-Sales-Finance-Report/blob/main/Market%20vs%20Target.pdf)
 
 ### Purpose:
 Monitor and evaluate sales performance for data-driven decisions. 📊
